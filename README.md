@@ -14,7 +14,7 @@ I enjoy securing systems, breaking them ethically, and building resilient networ
 - Strengthening **secure network architectures** and threat detection mechanisms
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 👯 **I’m looking to collaborate on**
 - Cybersecurity projects (**Blue Team / Red Team**)
@@ -27,7 +27,7 @@ I enjoy securing systems, breaking them ethically, and building resilient networ
 - Large-scale **SOC operations** and threat hunting
   
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 🌱 **I’m currently learning**
 - Advanced **SIEM & SOC operations**
