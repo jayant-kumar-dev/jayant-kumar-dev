@@ -27,7 +27,7 @@ I enjoy securing systems, breaking them ethically, and building resilient networ
 - Large-scale **SOC operations** and threat hunting
   
 </td>
-<td width="80%" valign="top">
+<td width="50%" valign="top">
 
 🌱 **I’m currently learning**
 - Advanced **SIEM & SOC operations**
