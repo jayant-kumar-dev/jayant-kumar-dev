@@ -12,7 +12,8 @@ I enjoy securing systems, breaking them ethically, and building resilient networ
 - Cybersecurity labs and hands-on projects in **SIEM, Incident Response, and Network Security**
 - Penetration testing and vulnerability assessment using **Nmap, Metasploit, Burp Suite**
 - Strengthening **secure network architectures** and threat detection mechanisms
-
+<table>
+<tr>
 <td width="80%" valign="top">
 
 👯 **I’m looking to collaborate on**
@@ -41,6 +42,7 @@ I enjoy securing systems, breaking them ethically, and building resilient networ
   
 </td>
 </tr>
+</table>
 
 ⚡ **Fun fact**
 - Ranked in the **National Top 13%** among **1,250+ teams** in cybersecurity CTF competitions 🏆
