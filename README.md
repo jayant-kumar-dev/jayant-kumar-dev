@@ -1,108 +1,76 @@
-<h1 align="center" style="color:#7CFFB2;">Hi 👋, I'm Jayant Kumar</h1>
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | SOC & SIEM Practitioner</h3>
+# 💫 About Me:
+👋 Hi, I’m **Jayant Kumar**  
 
-<p align="center">
-Passionate about securing systems, breaking them ethically, and building resilient infrastructures.
-</p>
-
----
-
-## 👤 About Me :
-
-🔭 **I’m currently working on**  
-- SIEM & SOC Operations  
-- Incident Detection and Response  
-- Penetration Testing & Vulnerability Assessments  
-
-👯 **I’m looking to collaborate on**  
-- Cybersecurity & Ethical Hacking projects  
-- Blue Team / Red Team operations  
-- Capture The Flag (CTF) competitions  
-
-🤝 **I’m looking for help with**  
-- Advanced Cloud Security (AWS / Azure)  
-- Malware Analysis & Reverse Engineering  
-- Threat Hunting & SOC Automation  
-
-🌱 **I’m currently learning**  
-- Advanced SIEM workflows  
-- Cloud Security Frameworks  
-- Digital Forensics & Incident Investigation  
-
-💬 **Ask me about**  
-- Ethical Hacking  
-- SIEM (Splunk, ELK, QRadar)  
-- Incident Response  
-- Network & Cloud Security  
-
-⚡ **Fun fact**  
-- Ranked in the **National Top 13%** among **1,250+ teams** in Cybersecurity CTFs 🏆  
+A cybersecurity enthusiast with a strong foundation in **network security, ethical hacking, incident response, and cloud security**.  
+I enjoy securing systems, breaking them ethically, and building resilient network architectures. Passionate about learning, collaborating, and solving real-world security challenges.
 
 ---
 
-## 🛠️ Skills
+## 👨‍💻 About Me :
 
-### 🔐 Cybersecurity
-- Penetration Testing  
-- Incident Response  
-- Vulnerability Assessment  
-- Red Teaming & Phishing Defense  
+🔭 **I’m currently working on**
+- Cybersecurity labs and hands-on projects in **SIEM, Incident Response, and Network Security**
+- Penetration testing and vulnerability assessment using **Nmap, Metasploit, Burp Suite**
+- Strengthening **secure network architectures** and threat detection mechanisms
 
-### 🌐 Network Security
-- IDS / IPS  
-- Nmap, Nessus, Wireshark  
-- Firewall Configuration  
-- Secure Network Architecture  
+👯 **I’m looking to collaborate on**
+- Cybersecurity projects (**Blue Team / Red Team**)
+- **Capture The Flag (CTF)** competitions
+- Open-source **security tools** and automation scripts
 
-### 📊 Monitoring & Forensics
-- SIEM (Splunk, ELK, QRadar)  
-- Security Onion  
-- Log Analysis & Threat Detection  
+🤝 **I’m looking for help with**
+- Advanced **Cloud Security** implementations (AWS / Azure)
+- **Malware analysis** and reverse engineering
+- Large-scale **SOC operations** and threat hunting
+
+🌱 **I’m currently learning**
+- Advanced **SIEM & SOC operations**
+- Cloud security frameworks and best practices
+- **Digital forensics** and incident investigation techniques
+
+💬 **Ask me about**
+- Ethical Hacking & Penetration Testing
+- SIEM tools (**Splunk, ELK, QRadar**)
+- Incident Detection & Response
+- Network and Cloud Security
+
+⚡ **Fun fact**
+- Ranked in the **National Top 13%** among **1,250+ teams** in cybersecurity CTF competitions 🏆
+
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayant-jugal-kumar)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayantkumar11102004@gmail.com)
+
+---
+
+# 💻 Tech Stack (Cybersecurity Focused)
+
+### 🔐 Cybersecurity & Networking
+![SIEM](https://img.shields.io/badge/SIEM-1f2937?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
+![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
+![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+
+### ☁️ Cloud & Infrastructure Security
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure)
+![Firewall](https://img.shields.io/badge/Firewalls-DC2626?style=for-the-badge)
+![VPN](https://img.shields.io/badge/VPN-0F766E?style=for-the-badge)
 
 ### 💻 Programming & Scripting
-- C, C++, Java  
-- Python, Ruby, PHP  
-- Bash, PowerShell  
-
-### 🔑 Cryptography
-- Encryption  
-- Authentication Protocols  
-- Digital Certificates  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
 
 ---
 
-## 🎓 Education
+[![](https://visitcount.itsvg.in/api?id=jayant-kumar-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Army Institute of Technology, Pune**  
-**B.E. in Computer Engineering** (July 2022 – Present)
-
-- Mitigated a real-world **DDoS attack** on college infrastructure  
-- Designed and implemented a **secure network architecture**  
-- Hands-on experience in **Penetration Testing & Incident Response**
-
----
-
-## 📜 Certifications
-
-- 🟢 **Google Cybersecurity Certificate**  
-- 🟢 **Certified Ethical Hacker (CEH)**  
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="mailto:jayantkumar11102004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/jayant-jugal-kumar">
-  <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://github.com/jayant-kumar-dev">
-  <img src="https://img.shields.io/badge/GitHub-1B1F23?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
----
-
-⭐ *Cybersecurity is not just a skill — it’s a mindset.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
