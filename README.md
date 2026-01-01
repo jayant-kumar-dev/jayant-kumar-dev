@@ -105,17 +105,4 @@ Passionate about securing systems, breaking them ethically, and building resilie
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jayant-kumar-dev&show_icons=true&theme=green_night" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayant-kumar-dev&theme=green_night" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayant-kumar-dev&layout=compact&theme=green_night"/>
-</p>
-
----
-
 ⭐ *Cybersecurity is not just a skill — it’s a mindset.*
