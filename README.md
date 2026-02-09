@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 👋 Hi, I’m **Jayant Kumar**  
 
 A cybersecurity enthusiast with a strong foundation in **network security, ethical hacking, incident response, and cloud security**.  
