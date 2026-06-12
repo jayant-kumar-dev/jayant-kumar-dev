@@ -134,9 +134,5 @@ status      : learning + building
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyan.png" alt="divider" />
-</p>
-
-<p align="center">
   <a href="mailto:jayantkumar11102004@gmail.com">jayantkumar11102004@gmail.com</a> • <a href="https://linkedin.com/in/jayant-jugal-kumar">LinkedIn</a>
 </p>
