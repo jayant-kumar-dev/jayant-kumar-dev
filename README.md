@@ -216,9 +216,7 @@ AI-powered maritime cybersecurity and OT/ICS monitoring platform.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayant-kumar-dev&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=cbd5e1" alt="Contribution Graph" />
 </p>
 
-> **Note:** Replace `jayant-kumar-dev` above with your actual GitHub username in every stats/streak/activity URL for these widgets to render correctly.
 
----
 
 ## Terminal Notes
 
