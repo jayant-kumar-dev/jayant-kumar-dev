@@ -47,12 +47,12 @@ Beyond research, I build open-source cybersecurity tools, contribute to security
 
 ## Current Research
 
-- 🔬 Evaluating enterprise readiness for Post-Quantum Cryptography
-- 📄 Writing my first cybersecurity research paper
-- ⚙️ Building AegisGuard — PQC/TLS analysis platform
-- 🌊 Building Maritime GeoShield — maritime OT/ICS security monitoring
-- 🌐 Studying secure communication protocols
-- 🔐 Internet-scale TLS measurements
+-  Evaluating enterprise readiness for Post-Quantum Cryptography
+-  Writing my first cybersecurity research paper
+-  Building AegisGuard — PQC/TLS analysis platform
+-  Building Maritime GeoShield — maritime OT/ICS security monitoring
+-  Studying secure communication protocols
+-  Internet-scale TLS measurements
 
 ---
 
@@ -64,7 +64,7 @@ Beyond research, I build open-source cybersecurity tools, contribute to security
 
 ## Featured Research Projects
 
-### 🔐 AegisGuard
+###  AegisGuard
 Research platform for post-quantum-aware TLS security assessment.
 
 - TLS Analysis & Cipher Suite Evaluation
@@ -76,7 +76,7 @@ Research platform for post-quantum-aware TLS security assessment.
 
 **National Finalist — Punjab National Bank Cyber Security Hackathon 2025–26**
 
-### 🌊 Maritime GeoShield
+###  Maritime GeoShield
 AI-powered maritime cybersecurity and OT/ICS monitoring platform.
 
 - GIS-based Vessel Security Visualization
@@ -90,7 +90,7 @@ AI-powered maritime cybersecurity and OT/ICS monitoring platform.
 
 ## Publications
 
-📄 **Manuscript in Preparation**
+ **Manuscript in Preparation**
 *An Empirical Study of Post-Quantum Cryptographic Readiness Across Enterprise TLS Infrastructure Using Automated TLS Analysis*
 
 ---
@@ -104,9 +104,9 @@ AI-powered maritime cybersecurity and OT/ICS monitoring platform.
   <img src="https://img.shields.io/badge/Independent%20Research-0f172a?style=for-the-badge&labelColor=0f172a&color=155e75" alt="Independent Research" />
 </p>
 
-- 🏆 **National Finalist** — PNB Cyber Security Hackathon 2025–26
-- 🚩 **Top 13% Nationally** — Cybersecurity CTF competitions (1,250+ teams), Team Lead of **QuantumAegis**
-- 🔍 **Independent Cybersecurity Research** — TLS/PQC infrastructure assessments
+-  **National Finalist** — PNB Cyber Security Hackathon 2025–26
+-  **Top 13% Nationally** — Cybersecurity CTF competitions (1,250+ teams), Team Lead of **QuantumAegis**
+-  **Independent Cybersecurity Research** — TLS/PQC infrastructure assessments
 
 ---
 
@@ -240,7 +240,7 @@ AI-powered maritime cybersecurity and OT/ICS monitoring platform.
 > building AegisGuard: TLS + CBOM + PQC analysis
 > building Maritime GeoShield: OT/ICS monitoring
 > writing manuscript: PQC readiness study
-> leading CTF team: QuantumAegis (Top 13% national)
+> leading CTF team and Hackathon team  : QuantumAegis
 ```
 
 ---
