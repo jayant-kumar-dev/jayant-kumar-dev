@@ -27,7 +27,7 @@
 
 I'm Jayant Kumar, an undergraduate cybersecurity researcher working on the cryptanalysis of authentication protocols under quantum adversaries, and on the practical migration path toward post-quantum cryptography.
 
-My current research asks what happens to lightweight, noise-based authentication schemes when an adversary is permitted superposition access to the protocol oracle -a threat model that sits between the classical and fully quantum settings, and where several otherwise-sound constructions turn out to leak structure.
+My current research asks what happens to lightweight, noise-based authentication schemes when an adversary is permitted superposition access to the protocol oracle - a threat model that sits between the classical and fully quantum settings, and where several otherwise-sound constructions turn out to leak structure.
 
 Research focus:
 
