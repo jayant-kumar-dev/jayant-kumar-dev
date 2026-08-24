@@ -9,9 +9,7 @@
 <p align="center">
   <a href="mailto:jayantkumar11102004@gmail.com"><img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=7dd3fc" alt="Email" /></a>
   <a href="https://doi.org/10.5281/zenodo.21934507"><img src="https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.21934507-0b1220?style=for-the-badge&logo=zenodo&logoColor=7dd3fc" alt="Zenodo DOI" /></a>
-  <a href="https://orcid.org/0009-0009-6272-6601"><img src="https://img.shields.io/badge/ORCID-0009--0009--6272--6601-0b1220?style=for-the-badge&logo=orcid&logoColor=7dd3fc" alt="ORCID" /></a>
   <a href="https://linkedin.com/in/jayant-jugal-kumar"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn" /></a>
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="https://img.shields.io/badge/Google%20Scholar-0b1220?style=for-the-badge&logo=googlescholar&logoColor=7dd3fc" alt="Google Scholar" /></a>
 </p>
 
 <p align="center">
@@ -66,7 +64,7 @@ IEEE conference paper package · with N. Soni
 
 ## Research Software
 
-### 🛡️ AegisGuard
+### AegisGuard
 Post-quantum-aware TLS security assessment platform. FastAPI backend, modular architecture, CBOM generation.
 
 - TLS analysis and cipher-suite evaluation across a 13-stage auditing pipeline
@@ -77,7 +75,7 @@ Post-quantum-aware TLS security assessment platform. FastAPI backend, modular ar
 **National Finalist — Punjab National Bank Cyber Security Hackathon 2025–26**
 [`github.com/jayant-kumar-dev/AegisGuard-Quantum-Safe-PQC-Scanner`](https://github.com/jayant-kumar-dev/AegisGuard-Quantum-Safe-PQC-Scanner) · **v2.1**
 
-### 🌀 AegisGuard-Q
+### AegisGuard-Q
 Reference implementation and analysis toolkit accompanying the superposition-leakage work.
 
 - Walsh–Hadamard Transform analytics over protocol response functions
@@ -87,7 +85,7 @@ Reference implementation and analysis toolkit accompanying the superposition-lea
 
 [`github.com/jayant-kumar-dev/AegisGuard-Q`](https://github.com/jayant-kumar-dev/AegisGuard-Q) · **v2.0**
 
-### 🔑 Q-FAIR
+### Q-FAIR
 Four-phase research codebase reproducing and extending siftingless-QKD finite-key thresholds.
 
 - `besc.py`, `distributions.py`, `de.py`, `table1.py` — BESC/LDPC density-evolution pipeline
@@ -96,7 +94,7 @@ Four-phase research codebase reproducing and extending siftingless-QKD finite-ke
 - Phase 1 complete: coarse Gate 1 threshold rows reproduced against Elkouss & Martinez-Mateo
 - Next: Numba-accelerated box-plus kernel, full 14-row fine-grid Gate 1 sweep, then Gate 2 (PEG construction, sum-product decoding, rate adaptation)
 
-### 🌊 Maritime GeoShield
+### Maritime GeoShield
 Consent-based maritime cybersecurity monitoring dashboard — portfolio project.
 
 - GIS-based vessel security visualisation on a Three.js globe
@@ -174,24 +172,19 @@ Consent-based maritime cybersecurity monitoring dashboard — portfolio project.
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jayant-kumar-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&icon_color=7dd3fc&text_color=cbd5e1" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayant-kumar-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&text_color=cbd5e1" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jayant-kumar-dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&icon_color=7dd3fc&text_color=cbd5e1" alt="jayant-kumar-dev's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayant-kumar-dev&layout=compact&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&text_color=cbd5e1" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayant-kumar-dev&theme=tokyonight&hide_border=true&background=0f172a&stroke=7dd3fc&ring=0e7490&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=jayant-kumar-dev&theme=tokyonight&hide_border=true&background=0f172a&stroke=7dd3fc&ring=0e7490&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayant-kumar-dev&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=cbd5e1" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Contributions-50-1e293b?style=for-the-badge&labelColor=0f172a&color=10b981" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Lines%20of%20Code-30k%2B-1e293b?style=for-the-badge&labelColor=0f172a&color=10b981" alt="Lines of Code" />
-  <img src="https://img.shields.io/badge/Visitors-225-1e293b?style=for-the-badge&labelColor=0f172a&color=10b981" alt="Visitors" />
-  <img src="https://img.shields.io/badge/Followers-5-1e293b?style=for-the-badge&labelColor=0f172a&color=10b981" alt="Followers" />
-</p>
+> GitHub-hosted stat cards above update automatically. Static snapshot: **50** contributions · **30k+** lines of code · **225** visitors · **5** followers.
 
 ---
 
@@ -221,8 +214,6 @@ status       : researching - building - publishing
 <p align="center">
   <a href="mailto:jayantkumar11102004@gmail.com">jayantkumar11102004@gmail.com</a> •
   <a href="https://doi.org/10.5281/zenodo.21934507">Zenodo</a> •
-  <a href="https://orcid.org/0009-0009-6272-6601">ORCID</a> •
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">Scholar</a> •
   <a href="https://linkedin.com/in/jayant-jugal-kumar">LinkedIn</a>
 </p>
 
