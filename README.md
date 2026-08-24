@@ -29,14 +29,16 @@ I'm Jayant Kumar, an undergraduate cybersecurity researcher working on the crypt
 
 My current research asks what happens to lightweight, noise-based authentication schemes when an adversary is permitted superposition access to the protocol oracle - a threat model that sits between the classical and fully quantum settings, and where several otherwise-sound constructions turn out to leak structure.
 
-Research focus:
+## Research focus:
 
-- Quantum cryptanalysis of symmetric and lightweight authentication protocols
-- Learning Parity with Noise (LPN) and its deterministic variants
-- Spectral / Walsh–Hadamard methods for leakage characterisation
-- Superposition-query security models (Q1 / Q2)
-- Post-Quantum Cryptography deployment and migration
-- Cryptographic Bill of Materials (CBOM) and PQC readiness assessment
+-Quantum cryptanalysis of symmetric and lightweight authentication protocols
+-Learning Parity with Noise (LPN) and its deterministic variants
+-Spectral / Walsh–Hadamard methods for leakage characterisation
+-Superposition-query security models (Q1 / Q2)
+-Siftingless Quantum Key Distribution — finite-block, finite-key regimes
+-LDPC code design for QKD information reconciliation (density evolution, BESC)
+-Post-Quantum Cryptography deployment and migration (ML-KEM / hybrid TLS)
+-Cryptographic Bill of Materials (CBOM) and PQC readiness assessment
 
 Alongside the theoretical work I build open-source tooling that makes these analyses reproducible, lead the CTF team **QuantumAegis**, and work on applied security engineering.
 
@@ -44,14 +46,15 @@ Alongside the theoretical work I build open-source tooling that makes these anal
 
 ## Publications
 
-**Spectral Characterization of Superposition Leakage in Deterministic-LPN Authentication Protocols** (2026)
-Preprint — Zenodo
-[**DOI: 10.5281/zenodo.21934507**](https://doi.org/10.5281/zenodo.21934507)
+**Spectral Characterization of Superposition Leakage in Deterministic-LPN Authentication Protocols ** (2026) Preprint — Zenodo · CC BY 4.0 DOI: 10.5281/zenodo.21934507
 
-> Characterises, via Walsh–Hadamard spectral analysis, the structural leakage exposed when a deterministic-LPN authentication protocol is queried in superposition, together with an information-theoretic treatment of the keyed-secret setting.
+Characterises, via Walsh–Hadamard spectral analysis, the structural leakage exposed when a deterministic-LPN authentication protocol is queried in superposition, together with an information-theoretic treatment of the keyed-secret setting.
 
-**In preparation**
-*An Empirical Study of Post-Quantum Cryptographic Readiness Across Enterprise TLS Infrastructure Using Automated TLS Analysis*
+**An Empirical Study of Post-Quantum Cryptographic Readiness Across Enterprise TLS Infrastructure** (2026) IEEE conference paper package · with N. Soni
+
+Measurement study across 400 TLS endpoints spanning banking and multi-sector datasets, finding that the banking sector lags other sectors in hybrid PQC adoption. Built on the AegisGuard scanning pipeline.
+
+**In progress** Reassessing **Siftingless Quantum Key Distribution Under Matched Finite-Block and Finite-Key Conditions** — research note reproducing and extending BESC/LDPC density-evolution thresholds for siftingless QKD (Project Q-FAIR, Phase 1 complete).
 
 ---
 
@@ -62,35 +65,42 @@ Preprint — Zenodo
 ---
 
 ## Research Software
+### AegisGuard
+
+Post-quantum-aware TLS security assessment platform. FastAPI backend, modular architecture, CBOM generation.
+
+TLS analysis and cipher-suite evaluation across a 13-stage auditing pipeline
+Cryptographic Bill of Materials (CBOM) generation, ML-KEM (Kyber) / hybrid PQC detection
+Certificate-chain validation, risk breakdown reporting, SQLite scan history
+Backbone of the 400-endpoint IEEE PQC-readiness measurement study
+
 
 ### AegisGuard-Q
+
 Reference implementation and analysis toolkit accompanying the superposition-leakage work.
 
-- Walsh–Hadamard Transform analytics over protocol response functions
-- Independent NumPy statevector cross-validator for spectral results
-- 25-test regression suite; verified on Linux and Windows
-- JSON / Markdown export for reproducible experiment records
+Walsh–Hadamard Transform analytics over protocol response functions
+Independent NumPy statevector cross-validator for spectral results
+25-test regression suite; verified on Linux and Windows
+JSON / Markdown export for reproducible experiment records
 
-[`github.com/jayant-kumar-dev/Aegisguard-Q`](https://github.com/jayant-kumar-dev/Aegisguard-Q) · **v2.0**
+### Q-FAIR
 
-### AegisGuard
-Platform for post-quantum-aware TLS security assessment.
+Four-phase research codebase reproducing and extending siftingless-QKD finite-key thresholds.
 
-- TLS analysis and cipher suite evaluation
-- Cryptographic Bill of Materials (CBOM) generation
-- PQC readiness assessment and ML-KEM (Kyber) detection
-- Certificate chain validation; internet-scale cryptographic measurement
+besc.py, distributions.py, de.py, table1.py — BESC/LDPC density-evolution pipeline
+Quantized LLR-grid box-plus check-node implementation (replacing a divergent G-domain approach)
+18 fast + 3 slow unit tests, full documentation, packaged via pyproject.toml
+Phase 1 complete: coarse Gate 1 threshold rows reproduced against Elkouss & Martinez-Mateo
+Next: Numba-accelerated box-plus kernel, full 14-row fine-grid Gate 1 sweep, then Gate 2 (PEG construction, sum-product decoding, rate adaptation)
 
-**National Finalist — Punjab National Bank Cyber Security Hackathon 2025–26**
+Maritime GeoShield
 
-### Maritime GeoShield
-AI-powered maritime cybersecurity and OT/ICS monitoring platform.
+Consent-based maritime cybersecurity monitoring dashboard — portfolio project.
 
-- GIS-based vessel security visualisation, threat intelligence integration
-- OT/ICS monitoring, MITRE ATT&CK mapping, GPS spoofing simulation
-
----
-
+GIS-based vessel security visualisation on a Three.js globe
+OT/ICS monitoring with MITRE ATT&CK ICS technique mapping
+Mock telemetry and GPS-spoofing simulation for demonstration
 ## Achievements
 
 <p align="left">
@@ -160,22 +170,25 @@ AI-powered maritime cybersecurity and OT/ICS monitoring platform.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayant-kumar-dev&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=cbd5e1" alt="Contribution Graph" />
 </p>
 
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=jayant-kumar-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&icon_color=7dd3fc&text_color=cbd5e1" alt="jayant-kumar-dev's GitHub stats (live)" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=jayant-kumar-dev&label=Profile%20Views&color=10b981&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/jayant-kumar-dev?label=Followers&style=for-the-badge&color=10b981&labelColor=0f172a" alt="Followers" /> </p>
+
 ---
 
 ## Environment Snapshot
 
 ```text
 jayant@secure-research:~$
-role         : undergraduate cybersecurity researcher
-focus        : quantum cryptanalysis, LPN authentication, post-quantum cryptography
+role         : undergraduate cybersecurity researcher, BCA, Sobhasaria Group Of Institutions 
+mentor       : Asst. Prof. Nitin Soni
+focus        : quantum cryptanalysis, LPN authentication, siftingless QKD, post-quantum cryptography
 preprint     : 10.5281/zenodo.21934507 - superposition leakage in deterministic-LPN
-projects     : AegisGuard-Q, AegisGuard, Maritime GeoShield
+in-progress  : IEEE PQC/TLS readiness study (400 endpoints) - with N. Soni
+              : Q-FAIR - siftingless QKD finite-key research note (Phase 1 complete)
+projects     : AegisGuard, AegisGuard-Q, Q-FAIR, Maritime GeoShield
 achievement  : National Finalist - PNB Cyber Security Hackathon 2025-26
 ctf          : Top 13% national - Team Lead, QuantumAegis
 certs        : CEH, CompTIA Security+, Google Cybersecurity
 status       : researching - building - publishing
-```
-
 ---
 
 <p align="center">
