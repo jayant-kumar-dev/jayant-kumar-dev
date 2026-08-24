@@ -170,8 +170,6 @@ Mock telemetry and GPS-spoofing simulation for demonstration
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayant-kumar-dev&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=cbd5e1" alt="Contribution Graph" />
 </p>
 
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=jayant-kumar-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&icon_color=7dd3fc&text_color=cbd5e1" alt="jayant-kumar-dev's GitHub stats (live)" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=jayant-kumar-dev&label=Profile%20Views&color=10b981&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/jayant-kumar-dev?label=Followers&style=for-the-badge&color=10b981&labelColor=0f172a" alt="Followers" /> </p>
-
 ---
 
 ## Environment Snapshot
