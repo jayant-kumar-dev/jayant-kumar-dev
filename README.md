@@ -172,19 +172,11 @@ Consent-based maritime cybersecurity monitoring dashboard — portfolio project.
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jayant-kumar-dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&icon_color=7dd3fc&text_color=cbd5e1" alt="jayant-kumar-dev's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayant-kumar-dev&layout=compact&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&text_color=cbd5e1" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Contributions-50-0b1220?style=for-the-badge&labelColor=0f172a&color=10b981" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Lines%20of%20Code-30k%2B-0b1220?style=for-the-badge&labelColor=0f172a&color=10b981" alt="Lines of Code" />
+  <img src="https://img.shields.io/badge/Visitors-225-0b1220?style=for-the-badge&labelColor=0f172a&color=10b981" alt="Visitors" />
+  <img src="https://img.shields.io/badge/Followers-5-0b1220?style=for-the-badge&labelColor=0f172a&color=10b981" alt="Followers" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jayant-kumar-dev&theme=tokyonight&hide_border=true&background=0f172a&stroke=7dd3fc&ring=0e7490&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayant-kumar-dev&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=cbd5e1" alt="Contribution Graph" />
-</p>
-
-> GitHub-hosted stat cards above update automatically. Static snapshot: **50** contributions · **30k+** lines of code · **225** visitors · **5** followers.
 
 ---
 
