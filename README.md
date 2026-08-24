@@ -187,11 +187,11 @@ achievement  : National Finalist - PNB Cyber Security Hackathon 2025-26
 ctf          : Top 13% national - Team Lead, QuantumAegis
 certs        : CEH, CompTIA Security+, Google Cybersecurity
 status       : researching - building - publishing
----
-
+```
 <p align="center">
   <a href="mailto:jayantkumar11102004@gmail.com">jayantkumar11102004@gmail.com</a> •
   <a href="https://doi.org/10.5281/zenodo.21934507">Zenodo</a> •
   <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">Scholar</a> •
   <a href="https://linkedin.com/in/jayant-jugal-kumar">LinkedIn</a>
 </p>
+
